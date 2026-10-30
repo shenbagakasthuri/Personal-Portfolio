@@ -20,7 +20,7 @@ A responsive portfolio built with HTML, CSS, and vanilla JavaScript for the Ausp
 - SubscriptionTracker — in progress
 - IoT-Based Aquatic Pollution Monitoring — academic project
 
-TravelSync has been removed from the project showcase.
+
 
 ## Run locally
 No build tools are required.
@@ -29,15 +29,6 @@ No build tools are required.
 2. Open `index.html` in a browser, or run a local server from this folder. For example, if Node.js is installed, run `npx --yes http-server . -p 8000` and open `http://127.0.0.1:8000/`.
 3. Keep the terminal running while previewing with a local server.
 
-## Personalize before submission
-- Verify your email, LinkedIn, and GitHub links.
-- Add the exact Netlify URL to the Mehandi Studio project details when ready.
-- Add public repository/demo links for Plant Care Scheduler if available.
-- Review all project descriptions and statuses for accuracy.
-- Test the project-detail dialogs, contact form, navigation, and responsive layout on desktop and mobile.
-
-## Deployment
-This is a static website and can be deployed with GitHub Pages or another static hosting provider. Push the project to a GitHub repository and follow the host's current deployment instructions.
 
 ## Contact form note
 The contact form validates fields and opens the visitor's default email app with a prepared message. It does not send or store messages on a backend server.
